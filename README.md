@@ -23,3 +23,9 @@ There is no front-end and no database — the focus is purely on backend logic a
 ## ▶️ How to Run 
 ```bash
 python calculator.py
+````
+## 📝 Future improvements
+
+Transform this into a complete calculator with more operators and features.
+
+
