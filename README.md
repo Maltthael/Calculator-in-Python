@@ -1,11 +1,13 @@
-What this app does?
+## Calculator Master
 
-A menu option to navegate throuth the functions above
+ What this code does
 
-Register new restaurants in the system
+- Performs the four basic math operations.
+- Displays the result of the calculation.
+- Handles errors such as:
+  - division by zero  
+  - non-numeric input  
+  - invalid operator
 
-List all registered restaurants in the system
-
-Activate or desactivate any restaurant by searching for the name(Like if he is ON or OFF)
-
-There's no front end(Just some different typografy) or BD, just the raw back-end.
+There is no front-end and no database.  
+This project focuses only on the raw back-end logic.
